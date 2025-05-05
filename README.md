@@ -145,5 +145,3 @@ homomorphic_encryption_app/
 ## Contribution 
 Feel free to **fork** this repository and submit **pull requests** to improve the application! 
 
-## License 
-This project is licensed under the MIT License. See the [LICENSE](https://codeshow-lapz.web.app) file for details.
